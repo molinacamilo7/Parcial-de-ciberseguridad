@@ -58,3 +58,31 @@ El smishing funciona de manera similar, pero se realiza a través de mensajes de
 Por otro lado, el vishing se basa en llamadas telefónicas donde el atacante intenta obtener información haciéndose pasar por un representante de una empresa.
 
 Finalmente, el whaling es un ataque dirigido específicamente a personas con cargos altos dentro de una organización, como gerentes o directores. En estos casos los atacantes buscan engañar a estas personas para realizar transferencias o compartir información sensible.
+
+## Seguridad en el uso de Git y GitHub
+
+Cuando se trabaja con herramientas como Git y GitHub para gestionar proyectos o almacenar información, también es importante tener en cuenta ciertos aspectos de seguridad.
+
+En primer lugar, el usuario crea o modifica un documento en su computador local.
+
+Posteriormente, se inicializa el repositorio utilizando el comando:
+
+git init
+
+Después, se agregan los archivos al área de preparación mediante:
+
+git add .
+
+A continuación, se registra el cambio con un commit:
+
+git commit -m "primer commit"
+
+Luego se conecta el repositorio local con el repositorio remoto en GitHub:
+
+git remote add origin URL_DEL_REPOSITORIO
+
+Finalmente, se envían los archivos al repositorio remoto mediante:
+
+git push origin main
+
+Este proceso permite mantener un control de versiones y garantizar una gestión organizada del proyecto.
