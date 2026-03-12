@@ -30,7 +30,6 @@ Posteriormente se descubre que un empleado descargó un archivo adjunto desde un
 Este tipo de situación suele estar relacionada con ataques de **ransomware** combinados con técnicas de **ingeniería social**.
 
 ---
----
 
 # Autor
 
