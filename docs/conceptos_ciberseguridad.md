@@ -25,4 +25,10 @@ Integridad: garantiza que los datos no sean alterados de manera indebida.
 
 Disponibilidad: asegura que los sistemas estén disponibles cuando los usuarios los necesiten.
 
-Este modelo se aplica en muchos sistemas actuales, como por ejemplo en las transacciones realizadas con tarjetas de crédito que utilizan el estándar EMV.
+Un ejemplo interesante donde se puede observar la aplicación de estos principios es el estándar EMV, utilizado en tarjetas de crédito con chip.
+
+En este caso, la confidencialidad se protege mediante el uso de criptografía que evita que los datos de la tarjeta puedan ser copiados fácilmente.
+
+Asimismo, la integridad se asegura mediante mecanismos que verifican que la transacción no haya sido alterada durante el proceso de pago.
+
+Por último, la disponibilidad permite que las transacciones puedan realizarse correctamente en diferentes terminales sin afectar el funcionamiento del sistema.
