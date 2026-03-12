@@ -1,6 +1,6 @@
 # Parcial de Ciberseguridad
 
-Este  contiene el desarrollo del parcial de ciberseguridad, donde se analiza un incidente de seguridad informática dentro de una empresa de comercio electrónico.
+Este  contiene el desarrollo del parcial de ciberseguridad.
 
 El objetivo del trabajo es aplicar conceptos fundamentales de seguridad informática para comprender cómo ocurre un ataque, identificar los elementos involucrados y proponer posibles soluciones para mitigar el impacto.
 
@@ -8,7 +8,7 @@ El objetivo del trabajo es aplicar conceptos fundamentales de seguridad informá
 
 # Contenido
 
-El repositorio se encuentra organizado en diferentes secciones para facilitar la comprensión del análisis:
+Se encuentra organizado en diferentes secciones para facilitar la comprensión del análisis:
 
 - **Conceptos de ciberseguridad**
 - **Análisis del incidente**
@@ -19,16 +19,11 @@ Cada uno de estos apartados permite comprender mejor el funcionamiento de los at
 
 ---
 
-# Escenario analizado
+La tecnología está presente prácticamente en todas las áreas de una empresa. Sin embargo, junto con todas las ventajas que ofrece el mundo digital, también aparecen riesgos relacionados con la seguridad de la información. Es precisamente aquí donde entra en juego la ciberseguridad.
 
-En el caso estudiado se detecta que varios archivos críticos de la empresa han sido cifrados y aparece un mensaje solicitando un pago en criptomonedas para recuperar la información.
+En este trabajo se analiza un escenario donde una empresa de comercio electrónico detecta comportamientos anómalos en varios de sus equipos. Después de una revisión inicial se identifica que algunos archivos han sido cifrados y aparece un mensaje solicitando un rescate para recuperarlos. A partir de esta situación se desarrollan distintos puntos relacionados con los conceptos básicos de ciberseguridad, el análisis de la amenaza y posibles soluciones para mitigar el incidente.
 
-Además, los registros del sistema muestran conexiones sospechosas hacia direcciones IP externas durante horarios no laborales.
-
-Posteriormente se descubre que un empleado descargó un archivo adjunto desde un correo que aparentemente provenía de un proveedor confiable, pero que en realidad contenía un ejecutable malicioso.
-
-Este tipo de situación suele estar relacionada con ataques de **ransomware** combinados con técnicas de **ingeniería social**.
-
+La idea no solo es identificar qué ocurrió, sino también entender cómo se podría responder ante una situación de este tipo dentro de una organización.
 ---
 
 # Autor
