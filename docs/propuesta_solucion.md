@@ -25,3 +25,9 @@ Finalmente se recomienda implementar medidas de prevención como:
 - Actualización constante de software
 - Capacitación en seguridad para los empleados
 - Implementación de sistemas de monitoreo
+
+## Consideraciones éticas
+
+No sería recomendable contratar a un hacker de sombrero gris para resolver el incidente, ya que aunque pueda tener conocimientos técnicos, su actuación podría generar problemas legales o comprometer la evidencia digital.
+
+Además, pagar el rescate o intentar descifrar los archivos mediante métodos no oficiales puede incentivar más ataques y generar riesgos legales, por lo que lo más recomendable es seguir protocolos oficiales de seguridad y recuperación de información.
