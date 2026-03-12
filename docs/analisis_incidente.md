@@ -23,3 +23,11 @@ Después, el gusano puede propagarse automáticamente a otros equipos dentro de 
 Finalmente, el ransomware es el responsable de cifrar los archivos del sistema y exigir un pago para recuperarlos.
 
 Cada uno de estos elementos cumple una función específica dentro del ataque.
+
+## Uso de Metasploit en el ataque
+
+Metasploit es una herramienta utilizada para explotar vulnerabilidades en sistemas informáticos.
+
+En este escenario, los atacantes pudieron utilizar Metasploit para identificar fallas de seguridad en el servidor web y ejecutar un exploit que les permitiera obtener acceso inicial al sistema.
+
+Una vez dentro del sistema, pudieron instalar el troyano y continuar con el despliegue del ransomware.
