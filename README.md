@@ -30,19 +30,6 @@ Posteriormente se descubre que un empleado descargó un archivo adjunto desde un
 Este tipo de situación suele estar relacionada con ataques de **ransomware** combinados con técnicas de **ingeniería social**.
 
 ---
-
-# Estructura del repositorio
-Parcial-de-ciberseguridad
-│
-├── README.md
-│
-├── docs
-│ ├── conceptos_ciberseguridad.md
-│ ├── analisis_incidente.md
-│ ├── propuesta_solucion.md
-│ └── flujo_ataque.md
-
-
 ---
 
 # Autor
