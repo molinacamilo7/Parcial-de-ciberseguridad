@@ -42,3 +42,25 @@ En este caso específico, los atacantes lograron obtener acceso inicial mediante
 A diferencia de los hackers de sombrero blanco, que utilizan sus conocimientos para mejorar la seguridad de los sistemas, o los hackers de sombrero gris, que se mueven en una zona intermedia entre lo ético y lo ilegal, los actores involucrados en este ataque claramente buscan generar daño y obtener ganancias económicas mediante el uso de ransomware.
 
 Por lo tanto, las motivaciones del ataque pueden relacionarse principalmente con el lucro económico, ya que el cifrado de los archivos y la solicitud de rescate en criptomonedas indican un intento de extorsión digital.
+
+## Impacto del incidente en la triada CID
+
+La triada de seguridad compuesta por Confidencialidad, Integridad y Disponibilidad se ve afectada de diferentes maneras durante el desarrollo del incidente.
+
+En primer lugar, la confidencialidad puede verse comprometida debido a que el troyano instalado en el sistema permite a los atacantes acceder de forma remota a la red interna de la empresa. Esto implica que información sensible, como bases de datos de clientes o archivos de configuración, podría ser visualizada o incluso copiada sin autorización.
+
+En segundo lugar, la integridad de la información también se ve afectada, ya que el malware puede modificar o alterar archivos dentro del sistema. En muchos casos, los atacantes manipulan configuraciones o instalan software adicional que cambia el estado original de los sistemas.
+
+Finalmente, la disponibilidad es el aspecto más claramente afectado en este escenario. El ransomware cifra los archivos críticos de la empresa, lo que impide que los usuarios puedan acceder a la información necesaria para realizar sus actividades. Esto puede detener completamente las operaciones de la organización.
+
+## Cómo las medidas propuestas restauran la triada CID
+
+Las medidas de respuesta al incidente buscan restaurar cada uno de los pilares de la triada de seguridad.
+
+En primer lugar, al aislar los equipos comprometidos y eliminar el malware, se evita que los atacantes continúen accediendo a los sistemas, lo cual ayuda a recuperar la confidencialidad de la información.
+
+Posteriormente, al analizar los sistemas afectados y verificar los archivos, se pueden identificar posibles modificaciones no autorizadas y restaurar versiones correctas de los datos, lo que permite recuperar la integridad de la información.
+
+Finalmente, la restauración de los sistemas mediante copias de seguridad permite recuperar el acceso a los archivos cifrados, restableciendo así la disponibilidad de la información para los usuarios de la empresa.
+
+De esta manera, las acciones de contención, recuperación y prevención contribuyen a restablecer el funcionamiento normal del sistema y a fortalecer la seguridad de la organización.
